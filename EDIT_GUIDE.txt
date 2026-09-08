@@ -1,0 +1,23 @@
+TUHIN AHMED — PREMIUM ANIMATED PORTFOLIO
+
+Features:
+- Scroll reveal animations
+- Floating profile photo
+- Animated glowing background
+- Hover animations on cards and portfolio
+- Contact popup/modal
+- Portfolio preview popup
+- Toast notifications
+- Animated skill bars
+- Mobile responsive
+
+To edit:
+1. Open index.html in VS Code or Notepad.
+2. Search for your@email.com and replace it.
+3. Search for +880 1XXXXXXXXX and replace it.
+4. Replace the social "#" links with your real links.
+5. Replace each PROJECT box with your actual project image.
+6. Replace the CV button action with your real CV link.
+7. Keep profile.jpg in the same folder as index.html.
+
+For GitHub Pages, upload index.html and profile.jpg to the repository root.
